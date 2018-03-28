@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "45073097654",
+    "firebase_url": "https://mcheck-ba9fd.firebaseio.com",
+    "project_id": "mcheck-ba9fd",
+    "storage_bucket": "mcheck-ba9fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45073097654:android:6df9d536ba54e871",
+        "android_client_info": {
+          "package_name": "com.example.ochieng_derrick.project_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45073097654-o8ulpe1m5nk5kb7c2qf08n3nd88ia0oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtyb9DryGoh-9NJZS_z1KnY83zpiTL_Qo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
